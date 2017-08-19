@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mymusic</string>
+    <string name="login_spotify">LOGIN</string>
+    <string name="inicio">Início</string>
+</resources>
